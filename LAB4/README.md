@@ -1,7 +1,6 @@
 ## Java Exercises
 
-### Read about the Vector, Queue, and PriorityQueue classes, and Comparable in-
-terface of Java.
+### Read about the Vector, Queue, and PriorityQueue classes, and Comparable interface of Java.
 
 (1). Write a Java program to test the following methods of Vector class: ad-
 dElement, capacity, setSize, containsAll, elementAt, isEmpty, and removeAll.
